@@ -3,7 +3,7 @@ package com.example.hotelmanagementsystem.entity;
 import javax.persistence.*;
 
 @Entity
-@Table(name = "dining_reservatio")
+@Table(name = "dining_reservation")
 public class DiningReservaton {
 
     @Id
